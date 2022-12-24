@@ -8,15 +8,9 @@
 
 If you have some questions, there might be an answer for you. If not, you can ask me everytime you want. I will answer, if I have time for it.
 
+* Q: How old are you
 
-* Q: Why do you write "import string"? I don't get it.
-
- A: Because I heard from someone that there is every numbers, special characters, and letters. I am lazy, you know? And if I make one little mistake, I will regret it for decades.
-
-
-* Q: Are you the one in the Discord channel?
-
- A: Erm...yeah, I think. There are also users with a random nickname and random numbers behind the #. It might be me, but it might be not me, too.
+ A: Too young to drink alcohol. Sorry, but I don't want to tell someone my age.
 
 
 * Q: How are you today?
@@ -24,9 +18,9 @@ If you have some questions, there might be an answer for you. If not, you can as
  A: Thank you for the question. I am happy to help someone. That is all. :D
 
 
-* Q: Which python version does it work?
+* Q: Which python version does your python program in the repository works?
 
- A: I think 3.9
+ A: 3.9
 
 
 * Q: Why don't you use liceses?
