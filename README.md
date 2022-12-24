@@ -10,7 +10,7 @@ If you have some questions, there might be an answer for you. If not, you can as
 
 * Q: How old are you
 
-  A: Too young to drink alcohol. Sorry, but I don't want to tell someone my age.
+  A: Too young to drink alcohol. Sorry, but I don't want to tell someone my age to any strangers. I hope you understand.
 
 
 * Q: How are you today?
