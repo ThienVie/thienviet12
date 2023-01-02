@@ -23,7 +23,7 @@ If you have some questions, there might be an answer for you. If not, you can as
   A: 3.9
 
 
-* Q: Why don't you use liceses?
+* Q: Why don't you use licenses?
 
   A: I am not good in english. There are so much unknown words. That is all.
 
