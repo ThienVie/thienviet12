@@ -10,7 +10,7 @@ If you have some questions, there might be an answer for you. If not, you can as
 
 * Q: How old are you
 
-  A: Sorry, but I don't want to tell someone my age to any strangers, until it needs 100% my age to verify me. I hope you understand.
+  A: I am not old enought to drink alcohol. I can't teall you my age, until you need to verify me. I hope you understand.
 
 
 * Q: How are you today?
