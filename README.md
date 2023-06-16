@@ -1,5 +1,3 @@
-[<img scr### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
 ![ThienViet's Banner](https://github.com/ThienVie/ThienVie/blob/main/github-header-image-2.png)
 
 
