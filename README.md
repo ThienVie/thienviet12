@@ -1,3 +1,8 @@
+[<img scr### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![ThienViet's Banner](https://github.com/ThienVie/ThienVie/blob/main/github-header-image-2.png)
+
+
 - 👋 Hi, I’m @ThienVie
 - 👀 I’m interested in games, swimming, sprinting and coding.
 - 🌱 I’m currently learning hacking and python (3.9)
