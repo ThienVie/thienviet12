@@ -1,6 +1,4 @@
 ![ThienViet's Banner](https://github.com/ThienVie/ThienVie/blob/main/github-header-image-2.png)
-
-# ThienViet
 Hi, I'm ThienViet. I am a programmer who uses Python(v3.11) to create things. I like games, swimming, sprinting and coding.
 
 You can reach me with this e-mail: ThienViet3@proton.me
