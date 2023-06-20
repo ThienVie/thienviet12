@@ -6,6 +6,7 @@ You can reach me with this e-mail: ThienViet3@proton.me
 
 Ask me all you want. Please, remember that I might not be online all the time, because I have other things to do, but I try to reply as fast as I can.
 
+<!---
 ThienVie/ThienVie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
